@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     
-    int n,row,col;
+    long long n,row,col;
     cin>>n;
     row=n/4;
     if (row%2==0)
