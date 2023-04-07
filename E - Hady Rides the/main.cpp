@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    
+    	
     long long n,row,col;
     cin>>n;
     row=n/4;
