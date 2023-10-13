@@ -1,0 +1,10 @@
+s=input()
+s=s.lower()
+#egypt
+e=s.count("e")
+g=s.count("g")
+y=s.count("y")
+p=s.count("p")
+t=s.count("t")
+minNum=min(e,g,y,p,t)
+print(minNum)
