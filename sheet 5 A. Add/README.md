@@ -1,5 +1,5 @@
 
-<a href="https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A"> Problem</a>
+<a href="https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B"> Problem</a>
 
 ## Run
 
