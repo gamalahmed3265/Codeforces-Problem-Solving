@@ -1,7 +1,6 @@
 problem: 
-Q - Reverse Words	
-https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/X
-
+[ Problems
+](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A
 ## Run
 
 ```
