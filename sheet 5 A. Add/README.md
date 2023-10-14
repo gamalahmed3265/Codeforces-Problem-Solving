@@ -1,6 +1,7 @@
 problem: 
-[ Problems
-](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A
+
+<a href="https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A"> Problems</a>
+
 ## Run
 
 ```
