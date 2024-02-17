@@ -1,4 +1,4 @@
-![Codeforces](https://codeforces.com/) is a competitive programming platform where users can participate in coding contests and solve algorithmic problems. If you're facing challenges in solving problems on Codeforces, here are some general tips to improve your problem-solving skills:
+[Codeforces](https://codeforces.com/) is a competitive programming platform where users can participate in coding contests and solve algorithmic problems. If you're facing challenges in solving problems on Codeforces, here are some general tips to improve your problem-solving skills:
 
 1. **Understand the Problem:**
    - Read the problem statement carefully.
@@ -45,4 +45,4 @@
 Remember, becoming proficient in problem-solving takes time and practice. Don't get discouraged by initial difficulties, and keep challenging yourself with a variety of problems to enhance your skills.
 
 
-# THIS REPO WILL HELP YOU TO SOLVE PROBLEMS IN ![ICPC Assiut University Community](https://codeforces.com/group/MWSDmqGsZm/contests) 
+# THIS REPO WILL HELP YOU TO SOLVE PROBLEMS IN [ICPC Assiut University Community](https://codeforces.com/group/MWSDmqGsZm/contests) 
