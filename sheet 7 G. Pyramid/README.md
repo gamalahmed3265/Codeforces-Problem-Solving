@@ -1,9 +1,7 @@
-problem:
+# [Problem:](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G)
 
-# Happy new Year! 💥
 
-<a href="https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G"> Problem</a>
-To run Java, C++, Python, and JavaScript files, you can use the following steps for each language:
+## To run Java, C++, Python, JavaScript , Dart ,and PHP files, you can use the following steps for each language:
 
 ### Java:
 
@@ -69,3 +67,66 @@ To run Java, C++, Python, and JavaScript files, you can use the following steps 
    ```
 
 Make sure you have the required runtime environments installed for each language (Java Runtime Environment for Java, a C++ compiler for C++, Python interpreter for Python, Node.js for JavaScript). Adjust file names and paths accordingly based on your actual file names and locations.
+
+To run PHP and Dart files, you need to have the respective interpreters installed on your system. Here's a guide on how to run PHP and Dart files:
+
+### Running PHP Files:
+
+1. **Write Your PHP Code:**
+   Create a PHP file (e.g., `example.php`) and write your PHP code inside it.
+
+   ```php
+   <?php
+   echo "Hello, World!";
+   ?>
+   ```
+
+2. **Open a Terminal or Command Prompt:**
+   Open a terminal or command prompt.
+
+3. **Navigate to the Directory:**
+   Use the `cd` command to navigate to the directory where your PHP file is located.
+
+   ```bash
+   cd path/to/your/directory
+   ```
+
+4. **Run the PHP File:**
+   Run the PHP file using the `php` command.
+
+   ```bash
+   php example.php
+   ```
+
+### Running Dart Files:
+
+1. **Write Your Dart Code:**
+   Create a Dart file (e.g., `example.dart`) and write your Dart code inside it.
+
+   ```dart
+   void main() {
+     print("Hello, World!");
+   }
+   ```
+
+2. **Install Dart SDK:**
+   Make sure you have the Dart SDK installed. You can download it from the official Dart website: https://dart.dev/get-dart
+
+3. **Open a Terminal or Command Prompt:**
+   Open a terminal or command prompt.
+
+4. **Navigate to the Directory:**
+   Use the `cd` command to navigate to the directory where your Dart file is located.
+
+   ```bash
+   cd path/to/your/directory
+   ```
+
+5. **Run the Dart File:**
+   Run the Dart file using the `dart` command.
+
+   ```bash
+   dart example.dart
+   ```
+
+Ensure that you have the necessary permissions to run scripts in the terminal or command prompt. Additionally, make sure that the PHP interpreter and Dart SDK are properly installed on your system.
