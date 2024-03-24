@@ -13,3 +13,7 @@ n=int(input())
 a=list(map(int,input().split()))
 
 print(sArrayAverage(n,a)/n)
+
+###### or 
+
+n,arr = int(input()),list(map(int,input().split()));print(f"{((sum(arr) / n)):.6f}")
